@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "bdd-unity",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "9987c62c-cdbc-4e74-8fe1-691de4966137",
+			"database_name": "BDD_Unity"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
